@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'papermasters'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BBD903679AF4442DB6786FE629F05971 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F51876ADF13743F6AD8BCE962747523F }}
